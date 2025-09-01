@@ -7,12 +7,12 @@ double multiplicacion(double a, double b);
 double division(double a, double b); 
 
 /* Implementaciones iniciales (a rellenar por cada integrante) */
-double suma(double a, double b) { return 0; }
-double resta(double a, double b) { return 0; }
+double suma(double a, double b) { return 0; } //Juan
+double resta(double a, double b) { return 0; } //Antony
 double multiplicacion(double a, double b) {
     return a * b;
-}
-double division(double a, double b) { return 0; }
+} //Beto
+double division(double a, double b) { return 0; } //Daniel
 
 /* Main de prueba */
 int main(void) {

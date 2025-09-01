@@ -8,11 +8,7 @@ double division(double a, double b); // Daniel
 
 /* Implementaciones iniciales (a rellenar por cada integrante) */
 double suma(double a, double b) { return 0; }
-
-double resta(double a, double b) {
-    return a - b;
-}
-
+double resta(double a, double b) { return 0; }
 double multiplicacion(double a, double b) { return 0; }
 double division(double a, double b) { return 0; }
 

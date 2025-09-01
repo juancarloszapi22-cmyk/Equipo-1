@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /* Prototipos de funciones */
-double suma(double a, double b);   // Juan
-double resta(double a, double b);  // Pedro
-double multiplicacion(double a, double b); // María
-double division(double a, double b); // Ana
+double suma(double a, double b);  
+double resta(double a, double b);  
+double multiplicacion(double a, double b); 
+double division(double a, double b); 
 
 /* Implementaciones iniciales (a rellenar por cada integrante) */
 double suma(double a, double b) { return 0; }

@@ -2,9 +2,9 @@
 
 /* Prototipos de funciones */
 double suma(double a, double b);   // Juan
-double resta(double a, double b);  // Pedro
-double multiplicacion(double a, double b); // María
-double division(double a, double b); // Ana
+double resta(double a, double b);  // Antony
+double multiplicacion(double a, double b); // Beto
+double division(double a, double b); // Daniel
 
 /* Implementaciones iniciales (a rellenar por cada integrante) */
 double suma(double a, double b) { return 0; }

@@ -9,7 +9,9 @@ double division(double a, double b); // Ana
 /* Implementaciones iniciales (a rellenar por cada integrante) */
 double suma(double a, double b) { return 0; }
 double resta(double a, double b) { return 0; }
-double multiplicacion(double a, double b) { return 0; }
+double multiplicacion(double a, double b) {
+    return a * b;
+}
 double division(double a, double b) { return 0; }
 
 /* Main de prueba */

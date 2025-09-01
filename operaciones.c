@@ -10,7 +10,10 @@ double division(double a, double b); // Ana
 double suma(double a, double b) { return 0; }
 double resta(double a, double b) { return 0; }
 double multiplicacion(double a, double b) { return 0; }
-double division(double a, double b) { return 0; }
+double division(double a, double b) 
+{ 
+    return a / b;  
+}
 
 /* Main de prueba */
 int main(void) {
